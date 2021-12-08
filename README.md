@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @YassAje
-- 👀 I’m interested in HDL programmation
+- 👀 I’m interested in Hardware programming
 - 🌱 I’m currently learning RISC-V structure
 - 💞️ I’m looking to collaborate on an international project
 - 📫 How to reach me .. through email ig ?
